@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #ffffff;
+    height: 90px;
+    border-bottom: 2px solid lightgrey;
+    width: 100%;
+    position: fixed;
+
+}
+#your_name{
+    font-weight: bold;
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 30px;
+    padding: 30px;
+    margin-left: 15%;
+}
+#contact{
+    float: right;
+    color: lightgray;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-right: 15%;
+    padding: 35px 0px 0px 25px;
+}
+#portfolio{
+    float: right;
+    color: lightgray;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-right: 1px solid lightgray; 
+    padding: 35px 20px 0px 25px;
+}
+#about{
+    float: right;
+    color: lightgray;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-right: 1px solid lightgray;
+    padding: 35px 20px 0px 25px;
+}
+#body{
+    background-image: url(../images/background.jpg);
+}
