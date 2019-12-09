@@ -7,7 +7,7 @@
 #your_name{
     font-weight: bold;
     float: left;
-    background-color: #4aaaa5;
+    background-color: #85bb65;
     color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 30px;
@@ -30,7 +30,7 @@
     padding: 35px 20px 0px 25px;
 }
 #body{
-    background-image: url(../images/background.jpg);
+    background-image: url(../images/background2.jpg);
     z-index: -1;
 }
 .nav-links {
@@ -54,7 +54,7 @@
     font-weight: bold;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 30px;
-    color: #4aaaa5;
+    color: #85bb65;
     border-bottom: 2px solid lightgray;
     padding-bottom: 20px;
 }
@@ -70,7 +70,7 @@ color: #777777;
 #footer {
     background-color: #666666;
     height: 60px;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #85bb65;
     width: 100%;
     position: fixed;
     text-align: center;
@@ -103,7 +103,7 @@ label {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 button {
-    background-color: #4aaaa5;
+    background-color: #85bb65;
     border: none;
     padding: 10px 20px;
     color: #ffffff; 
@@ -119,7 +119,7 @@ button {
     z-index: 1;
     margin: 170px 0px 0px 0px;
     color: #ffffff;
-    background-color: #4aaaa5;
+    background-color: #85bb65;
     height: 50px;
     width: 200px;
     text-align: center;
@@ -137,7 +137,7 @@ button {
     z-index: 1;
     margin: 170px 0px 0px 0px;
     color: #ffffff;
-    background-color: #4aaaa5;
+    background-color: #85bb65;
     height: 50px;
     width: 200px;
     text-align: center;
